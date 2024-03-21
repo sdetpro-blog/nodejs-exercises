@@ -3,7 +3,7 @@
 * Checking: same as saving account but can't with draw all money, should be left 50
 
 ## Requirement
-1. Define an abstract class Account with the following abstract methods:
+1. Define an abstract class BankingAccount with the following abstract methods:
 
 * deposit(amount: number): void: Adds the given amount to the account balance.
 * withdraw(amount: number): void: Subtracts the given amount from the account balance.
