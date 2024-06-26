@@ -6,7 +6,7 @@ Get input from user about height(m) and weight(kg) then calculate BMI
 - Obesity = BMI of 30 or greater
 
 ```
-BMI = weight / (height x 2)
+BMI = weight / (height x height)
 ```
 
 ## Lab 2.2:
