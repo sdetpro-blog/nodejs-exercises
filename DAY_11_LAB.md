@@ -33,6 +33,8 @@ module.exports = Post;
 
 ## Controller (Data Model Processor)
 
+> NOTE: This is a variant of controller where it is not procesing the Post model but returns the Model
+
 ```javascript
 // RequestHandler.js
 class RequestHandler {
