@@ -1,5 +1,6 @@
 # Skeleton
 
+## Execution
 ```javascript
 // TestPostModel.js
 const Post = require("./Post");
@@ -21,12 +22,16 @@ async function lab11(){
 }
 ```
 
+## Model(s)
+
 ```javascript
 // Post.js
 class Post {
 }
 module.exports = Post;
 ```
+
+## Controller (Data Model Processor)
 
 ```javascript
 // RequestHandler.js
