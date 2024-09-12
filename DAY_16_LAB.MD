@@ -10,8 +10,8 @@
 * getBalance(): number: Returns the current balance of the account.
 2. Create concrete subclasses of Account for different types of bank accounts:
 
-* SavingsAccount: Represents a savings account. It should have a minimumBalance property.
-* CheckingAccount: Represents a checking account. It should have a overdraftLimit property.
+* SavingsAccount: Represents a savings account.
+* CheckingAccount: Represents a checking account. It should have a minimumBalance property.
 3. Implement the abstract methods in each subclass to handle deposit, withdrawal, and balance retrieval according to the rules of each account type.
 
 4. Create instances of each account type and test their methods by performing deposits, withdrawals, and checking balances.
