@@ -7,12 +7,12 @@
 GET	/posts
 ```
 
-## 9.1
-* Please using PROMISE and thenable to solve this
+## Requirement
 * Allow user to input an userid and postId, print out that post content
 * Print all posts for that user
 
+## 9.1
+* Please use PROMISE and thenable
+
 ## 9.2
-* Please using PROMISE and ASYNC/AWAIT to solve this
-* Allow user to input an userid and postId, print out that post content
-* Print all posts for that user
+* Please using PROMISE and ASYNC/AWAIT
